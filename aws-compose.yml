@@ -3,7 +3,7 @@ es:
   cpu_shares: 100
   mem_limit: 262144000
 web:
-  image: ashutoshjha/foodtrucks-web
+  image: devpopsguru91/foodtrucks-web
   cpu_shares: 100
   mem_limit: 262144000
   ports:
