@@ -23,9 +23,7 @@ $ ./setup-docker.sh
 $ docker-compose up
 ```
 
-The app can also be easily deployed on AWS Elastic Container Service. Once you have [aws ecs cli](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_CLI_installation.html) installed, you can run the following to deploy it on ECS!
-```
-$ ./setup-aws-ecs.sh
-```
+
+
 
 
