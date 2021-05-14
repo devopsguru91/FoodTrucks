@@ -4,7 +4,7 @@ MAINTAINER Ashutosh Jha <devopsguru91@gmail.com>
 
 # install system-wide deps for python and node
 RUN apt-get -yqq update
-RUN apt-get -yqq install python-pip python-dev
+RUN apt-get -yqq install python3-pip python-dev
 RUN apt-get -yqq install nodejs npm
 #RUN ln -s /usr/bin/nodejs /usr/bin/node
 
